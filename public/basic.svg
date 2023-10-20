@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="82.582" height="24.94" viewBox="0 0 82.582 24.94">
+    <g>
+        <g>
+            <path fill="#1d3a49" d="M21.7 0H3.242A3.253 3.253 0 0 0 0 3.242V79.9c0 2.728 2.733 4.053 4.868.649l7.6-10.818 7.6 10.818c2.135 3.4 4.868 2.073 4.868-.649V3.242A3.253 3.253 0 0 0 21.7 0z" transform="rotate(90 41.291 41.291)"/>
+            <text fill="#fff" font-family="Arial" font-size="18px" font-weight="500" transform="rotate(90 41.291 41.291) rotate(-90 25.801 8.801)">
+                <tspan x="-28.007" y="1.5">Basic</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
